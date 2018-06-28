@@ -2,10 +2,6 @@
 
 ### Prerequisites
 
-- BioPython
-```
-pip install biopython
-```
 - keras
 ```
 pip install keras
@@ -15,4 +11,4 @@ pip install keras
 pip install scikit-learn
 ```
 
-`conda install` also works for all of these.
+`conda install` also works.
